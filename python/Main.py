@@ -25,12 +25,17 @@
 # Use is subject to license terms.
 #
 
+
+# just for picks
+
 import urllib.request
 import urllib.parse
 import io
 import json
 import os
 import sys
+
+
 
 user_input_url = str(input("URL to the stream "))
 
